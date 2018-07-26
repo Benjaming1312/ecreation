@@ -1,0 +1,5 @@
+# rotbots.txt for http://www.e-creation.com.tw/
+
+User-agent: *
+Disallow:
+
